@@ -1,11 +1,11 @@
 name: ovprogresshud
 description: Useful hud contain loading(default), success, error, info.Can use with one line code.
-version: 0.2.5
+version: 0.2.5-fix
 author: Ma Jialun <675531696@qq.com>
 homepage: https://github.com/mjl0602/OVProgressHUD
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:

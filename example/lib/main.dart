@@ -101,7 +101,7 @@ class _MyAppState extends State<MyApp> {
     );
   }
 
-  Timer dismissTimer;
+  late Timer dismissTimer;
 
   Widget button(String title, VoidCallback callback) {
     return new MaterialButton(
